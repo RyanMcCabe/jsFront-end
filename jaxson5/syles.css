@@ -1,0 +1,21 @@
+.failText{
+    color: red;
+}
+
+.failBox {
+    border: 1px red solid;
+}
+
+body {
+    background-color: #7798ff;
+    border-radius: 5px;
+}
+
+h1 {
+    background-color: #5bc0de;
+}
+
+body input {
+    border-radius: 10px;
+}
+
